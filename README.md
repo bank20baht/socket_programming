@@ -24,4 +24,5 @@ node server.js
 - clinet_B disconnected
 ![Screenshot_20230106_115335](https://user-images.githubusercontent.com/89448778/227522184-14ec2228-c1b9-4d3a-a938-9449a766431d.png)
 - stop server
-![Screenshot_20230106_115357](https://user-images.githubusercontent.com/89448778/227522258-f91dadec-adb3-4495-9dc9-742f4d7118bb.png)
+![Screenshot_20230106_115357](https://user-images.githubusercontent.com/89448778/227522471-7e820fda-929f-49eb-8854-f20b0118a4bd.png)
+
